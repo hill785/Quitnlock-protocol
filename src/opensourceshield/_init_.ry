@@ -1,0 +1,5 @@
+# OpenSourceShield Suite™
+# Author: G.DzubinskySnr · MintProofDAO™ Seal 436351437
+__version__ = "1.0.0"
+__author__ = "G.DzubinskySnr"
+__seal__ = "MintProofDAO™ 436351437"
