@@ -27,3 +27,5 @@ This repository contains a minimal Node.js reference implementation.
 ## Status
 
 Active specification (early-stage implementation)
+
+No export from hill 785 permitted, strictly prohibited.
