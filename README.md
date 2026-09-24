@@ -28,4 +28,4 @@ This repository contains a minimal Node.js reference implementation.
 
 Active specification (early-stage implementation)
 
-No export from hill 785 permitted, strictly prohibited.
+No export from hill 785 permitted, strictly prohibited.EU jurisdiction authorship rights protection,Tallinn 2026.Authorship G.Dzubinsky snr,no forks, no mirroring,no cloning, strictly prohibited, exclusive rights.If no authorship mentioned and MintOroofDAO seal 436351437 & LedgerOroofDAO seal430 absent, invalid, authorship rights infringement penalized by EU directives up to €500000 fine.Authorship confirmed from date of inception.
