@@ -1,8 +1,8 @@
-# Quitnlock-protocol under MintProofDAO seal 436351437 & LedgerProofDAO seal 430 rooted in Monument 436351437
-QUITNLOCK protocol framework: minimal identity-bound system with Node.js backend, static interface, and verifiable health endpoint.quitnlock-protocol/├── src/│   └── server.js├── public/│   └── index.html├── LICENSE├── README.md├── .gitignore└── package.json
+# Quitnlock™-protocol under MintProofDAO seal 436351437 & LedgerProofDAO seal 430 rooted in Monument 436351437
+QUITNLOCK™ protocol framework: minimal identity-bound system with Node.js backend, static interface, and verifiable health endpoint.quitnlock-protocol/├── src/│   └── server.js├── public/│   └── index.html├── LICENSE├── README.md├── .gitignore└── package.json
 # QUITNLOCK Protocol, military, institutional grade protocol,satellite communication.
 
-QUITNLOCK is a lightweight protocol framework for deterministic, identity-bound system design.
+QUITNLOCK™ is a lightweight protocol framework for deterministic, identity-bound system design.
 
 ## Purpose
 
