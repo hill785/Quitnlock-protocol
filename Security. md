@@ -1,7 +1,11 @@
 # QUITNLOCK Security Discovery - Self-Healing Main Branch
 
 **Discovery ID:** 436351437:b0ade87:430
+**Canonical Chain:** `436351437:b0ade87:430:Omni-Brain->Quitnlock->DWTL:QUIT=NLOCK:SHA256=3242efd8bd89e512cc6b9f620fd4585bc9470d091e431c109780574f5e5b14b1`
+**SHA256:** `3242efd8bd89e512cc6b9f620fd4585bc9470d091e431c109780574f5e5b14b1`
 **Title:** Immediate SHA256 Return to Original Main on Integrity Failure
+**Category:** GitHub Supply Chain Security
+**Method:** UTF8 canonical JSON sort_keys, separators (',',':')
 **Category:** GitHub Supply Chain Security
 
 ## Discovery
