@@ -1,0 +1,23 @@
+# QUITNLOCK Security Discovery - Self-Healing Main Branch
+
+**Discovery ID:** 436351437:b0ade87:430
+**Title:** Immediate SHA256 Return to Original Main on Integrity Failure
+**Category:** GitHub Supply Chain Security
+
+## Discovery
+Main branch auto-reverts to last verified SHA256 if License Check fails.
+
+Mechanism:
+- `license_check.py` verifies MintProofDAO seal + DWTL Time Proof
+- On failure (red ❌), workflow executes `git reset --hard LAST_GOOD_SHA + force push`
+- Result: Main branch is immutable, forks break, original always returns
+
+This protects against:
+- Unauthorized pushes
+- Fork injection
+- Broken dependency attacks
+
+Trinity: Omni-Brain (b0ade87) → Quitnlock (436351437) → DWTL (430) welded.
+
+Contact: hill785
+License: BUSL 1.1
