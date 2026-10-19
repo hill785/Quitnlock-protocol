@@ -4,6 +4,10 @@ QUITNLOCK™ protocol framework: minimal identity-bound system with Node.js back
 
 **Main:locked seal 436351437
 
+![License](https://img.shields.io/badge/Seal-436351437:b0ade87:430-green)
+![Trinity](https://img.shields.io/badge/Trinity-Omni--Brain→Quitnlock→DWTL-blue)
+![License Check](https://github.com/hill785/Quitnlock-protocol/actions/workflows/lock.yml/badge.svg)
+
 QUITNLOCK™ is a lightweight protocol framework for deterministic, identity-bound system design.
 
 ## Purpose
