@@ -16,6 +16,16 @@ Mechanism:
 - On failure (red ❌), workflow executes `git reset --hard LAST_GOOD_SHA + force push`
 - Result: Main branch is immutable, forks break, original always returns
 
+
+**Canonical JSON:**
+`{"dwlt":"430","genesis":"b0ade87","protocol":"QUITNLOCK","seal":"436351437","trinity":"Omni-Brain->Quitnlock->DWTL"}`
+
+**Verification:**
+`echo -n '{"dwlt":"430","genesis":"b0ade87","protocol":"QUITNLOCK","seal":"436351437","trinity":"Omni-Brain->Quitnlock->DWTL"}' | sha256sum`
+Returns `3242efd8bd89e512cc6b9f620fd4585bc9470d091e431c109780574f5e5b14b1`
+
+**Trinity Repos:** Omni-Brain b0ade87 + Quitnlock 436351437 + DWTL 430 welded
+
 This protects against:
 - Unauthorized pushes
 - Fork injection
