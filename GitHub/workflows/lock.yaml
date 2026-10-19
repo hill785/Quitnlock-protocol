@@ -1,0 +1,7 @@
+name: lock
+on: [push]
+jobs:
+  ok:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "QUITNLOCK 436351437 ACTIVE"
